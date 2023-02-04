@@ -7,5 +7,10 @@ In this Repository I share some codes about windows APIs.
 
     We Implemented two codes , one of them write on share memory using MailSlot and another one Read Shared Memory.
 
-    At the first run ReadMailslot after some secounds run write memory.
+    Thats like a online chat :)
 
+
+2. [FileMapping](/InterProcessCommiunication/FileMapping/) :
+    A memory-mapped file contains the contents of a file in virtual memory. This mapping between a file and memory space enables an application, including multiple processes, to modify the file by reading and writing directly to the memory. You can use managed code to access memory-mapped files in the same way that native Windows functions access memory-mapped files
+
+    First run readMemory then Write :)
